@@ -1,5 +1,5 @@
 // Pregunta1.java
-// Autor: [Tu nombre o usuario GitHub]
+// Autor: Jordy
 // Práctica: Sobrecarga de Métodos, Manejo de Errores y Colecciones
 // Ejercicio 1: Sobrecarga de métodos en Java
 
